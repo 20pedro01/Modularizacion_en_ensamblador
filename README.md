@@ -1,4 +1,4 @@
-# Simulador de Ahorro para el Retiro (Ensamblador x86)
+# Simulador de ahorro para el retiro (Ensamblador x86)
 
 Este proyecto presenta un **Simulador de ahorro para el retiro** desarrollado íntegramente en Lenguaje Ensamblador x86 para la asignatura de **Lenguajes de Interfaz** en el **Instituto Tecnológico Superior de Valladolid (ITSVA)**.
 
